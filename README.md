@@ -10,3 +10,6 @@ This simple program asks you to enter the amount of stocks you wish to examine a
   Then it asks for their ticker symbol.(It automaticly converts the letters to uppercase, if the ticker symbol is not valid it will raise an exception)
   Finaly it will return a list of dataframes containing the following information: date, open price, high, low, close, volume, dividends, stock splits. The funttion also returns the number of stocks you entered when first prompted. 
   
+
+To get yfinance:
+pip install yfinance
