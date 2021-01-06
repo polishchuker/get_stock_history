@@ -3,4 +3,4 @@ This simple program asks you to enter the amount of stocks you wish to examine a
 
 
 
-##More Detail
+## More Detail
