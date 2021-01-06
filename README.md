@@ -8,8 +8,8 @@ This simple program asks you to enter the amount of stocks you wish to examine a
   First the method prompts you to enter the amount of stocks you wish to see.
   Next it will prompt you for the start and end date for which you are to recieve the data for. The data must be entered in the following format: year-month-day (example: 2009-04-20) 
   Then it asks for their ticker symbol.(It automaticly converts the letters to uppercase, if the ticker symbol is not valid it will raise an exception)
-  Finaly it will return a list of dataframes containing the following information: date, open price, high, low, close, volume, dividends, stock splits. The funttion also returns the number of stocks you entered when first prompted. 
+  Finaly it will return a list of dataframes containing the following information: date, open price, high, low, close, volume, dividends, stock splits. The funcion also returns the number of stocks you entered when first prompted. 
   
 
-To get yfinance:
+### get yfinance:
 pip install yfinance
